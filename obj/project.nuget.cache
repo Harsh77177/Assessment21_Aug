@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "STVXQYzZ9fUSGayirNLpWGlYnD6Y4EhTIg2VVo+xZ7RKrvRJwwaDM0w9gOZx+kKwwPdd2Prg1lfG8KywrDKd1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VMAdmin\\Documents\\core-wave-2-dotnet-immersive-aug11\\CustomerService1\\CustomerService1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VMAdmin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\VMAdmin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VMAdmin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\VMAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\VMAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\VMAdmin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
